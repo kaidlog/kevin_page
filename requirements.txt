@@ -13,7 +13,7 @@ parso==0.5.2
 pickleshare==0.7.5
 prompt-toolkit==3.0.2
 psycopg2==2.8.4
-Pygments==2.5.2
+Pygments==2.7.4
 PyYAML==5.2
 six==1.13.0
 static3==0.7.0
